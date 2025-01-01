@@ -1,8 +1,2 @@
-This is my first project.
-I am learning how to use GitHub Copilot.
-Today is going to be a productive day!
-
-
-I am excited to see what I can create with the help of this tool.
-The possibilities are endless, and I am ready to explore them.
-Let's get started and make something amazing!
+![Alt text](URL or path to the image)
+Here is some additional text that provides more context to the image above.
