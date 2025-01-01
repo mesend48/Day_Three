@@ -18,3 +18,12 @@ Some food
 Some light meals
 # salad
 # pepper soup
+
+I will added some drinks
+Hard drinks
+#liquor
+1738
+Glenfiddich
+
+#Soft drinks
+orange juice
